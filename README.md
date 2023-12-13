@@ -1,1 +1,1 @@
-# sequelize-
+# sequelize
